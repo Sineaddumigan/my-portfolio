@@ -718,3 +718,12 @@
 </body>
 
 </html>
+
+<script>
+  const password = "D3s1gnLondon!";
+  const userPassword = prompt("Enter Password:");
+  if (userPassword !== password) {
+      alert("Incorrect password. Access denied.");
+      window.location.href = "https://google.com"; // Redirect or block access
+  }
+</script>
