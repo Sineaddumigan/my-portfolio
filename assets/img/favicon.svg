@@ -4,7 +4,7 @@
     <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group">
             <circle id="Oval-Copy-2" fill="#FF8222" cx="18.5" cy="18.5" r="18.5"></circle>
-            <text id="SD" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="24" font-weight="bold" fill="#FFFFFF">
+            <text id="SD" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="24" font-weight="normal" fill="#FFFFFF">
                 <tspan x="5" y="27">SD</tspan>
             </text>
         </g>
