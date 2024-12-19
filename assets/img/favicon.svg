@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="98px" height="47px" viewBox="0 0 98 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 7 Copy</title>
-    <g id="Portfolio---Future-Grants" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-7-Copy" transform="translate(-0.000000, 0.000000)" fill="#000000">
-            <rect id="Rectangle-Copy-69" x="42" y="12" width="2" height="34"></rect>
-            <rect id="Rectangle-Copy-78" transform="translate(49.000000, 46.000000) rotate(-270.000000) translate(-49.000000, -46.000000) " x="48" y="-3" width="2" height="98"></rect>
-            <rect id="Rectangle-Copy-79" transform="translate(71.000000, 38.000000) rotate(-270.000000) translate(-71.000000, -38.000000) " x="70" y="23" width="2" height="30"></rect>
-            <rect id="Rectangle-Copy-80" transform="translate(27.000000, 38.000000) rotate(-270.000000) translate(-27.000000, -38.000000) " x="26" y="23" width="2" height="30"></rect>
-            <rect id="Rectangle-Copy-81" transform="translate(33.000000, 31.000000) rotate(-270.000000) translate(-33.000000, -31.000000) " x="32" y="22" width="2" height="18"></rect>
-            <rect id="Rectangle-Copy-82" x="36" y="24" width="2" height="22"></rect>
-            <rect id="Rectangle-Copy-83" x="30" y="37" width="2" height="9"></rect>
-            <rect id="Rectangle-Copy-84" transform="translate(65.000000, 31.000000) rotate(-270.000000) translate(-65.000000, -31.000000) " x="64" y="22" width="2" height="18"></rect>
-            <rect id="Rectangle-Copy-85" x="54" y="12" width="2" height="34"></rect>
-            <rect id="Rectangle-Copy-86" x="48" y="0" width="2" height="46"></rect>
-            <rect id="Rectangle-Copy-87" x="60" y="24" width="2" height="22"></rect>
-            <rect id="Rectangle-Copy-88" x="66" y="37" width="2" height="9"></rect>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval-Copy-2" fill="#FF8222" cx="18.5" cy="18.5" r="18.5"></circle>
+            <text id="SD" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="5" y="27">SD</tspan>
+            </text>
         </g>
     </g>
 </svg>
