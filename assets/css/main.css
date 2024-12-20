@@ -492,7 +492,8 @@ section,
 @media (max-width: 768px) {
   .section {
     padding-top: 0;
-    padding-right: 0;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 }
 
@@ -799,6 +800,12 @@ figcaption {
   margin-top: -2px;
   border-left: 2px solid var(--accent-color);
   position: relative;
+}
+
+@media (max-width: 768px) {
+  .resume .resume-item {
+    padding: 0px 20px 20px 20px;
+  }
 }
 
 .resume .resume-item h4 {
