@@ -488,6 +488,14 @@ section,
   overflow: clip;
 }
 
+/* Remove padding on mobile devices */
+@media (max-width: 768px) {
+  .section {
+    padding-top: 0;
+    padding-right: 0;
+  }
+}
+
 /*--------------------------------------------------------------
 # Global Section Titles
 --------------------------------------------------------------*/
@@ -697,6 +705,7 @@ figcaption {
   color: var(--accent-color);
   line-height: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Stats Section
