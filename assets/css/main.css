@@ -542,6 +542,8 @@ section,
 
 .section-title p {
   margin-bottom: 0;
+  padding-right: 10%;
+  padding-left: 10%;
 }
 
 
